@@ -1,6 +1,6 @@
 ![plot](https://github.com/tom-prendergast-thf/NDL_Unpaid_Carers_CM/blob/main/ndlbanner.png)
 
-# Networked Data Lab: NDL Cheshire & Merseyside analysis on *[please fill in]*
+# Networked Data Lab: NDL Liverpool analysis on *[please fill in]*
 
 #### Project Status: In-progress
 
