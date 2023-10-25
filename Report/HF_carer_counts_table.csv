@@ -1,0 +1,329 @@
+ethnic_group,age_group,gender,count,regd,count_all,rate
+Asian or Asian British,18-29,Female,,asc,4227,0.02
+Asian or Asian British,18-29,Female,25,gp,4227,0.59
+Asian or Asian British,18-29,Female,26,gp_or_asc,4227,0.62
+Asian or Asian British,18-29,Male,,asc,4137,0.05
+Asian or Asian British,18-29,Male,18,gp,4137,0.44
+Asian or Asian British,18-29,Male,20,gp_or_asc,4137,0.48
+Asian or Asian British,18-29,Unknown,,,2,
+Asian or Asian British,30-39,Female,,asc,3042,0.1
+Asian or Asian British,30-39,Female,37,gp,3042,1.22
+Asian or Asian British,30-39,Female,40,gp_or_asc,3042,1.31
+Asian or Asian British,30-39,Male,,asc,3768,0.11
+Asian or Asian British,30-39,Male,14,gp,3768,0.37
+Asian or Asian British,30-39,Male,18,gp_or_asc,3768,0.48
+Asian or Asian British,40-49,Female,,asc,2096,0.1
+Asian or Asian British,40-49,Female,33,gp,2096,1.57
+Asian or Asian British,40-49,Female,35,gp_or_asc,2096,1.67
+Asian or Asian British,40-49,Male,,asc,2811,0.04
+Asian or Asian British,40-49,Male,25,gp,2811,0.89
+Asian or Asian British,40-49,Male,26,gp_or_asc,2811,0.92
+Asian or Asian British,50-59,Female,,asc,1022,0.29
+Asian or Asian British,50-59,Female,25,gp,1022,2.45
+Asian or Asian British,50-59,Female,,gp_and_asc,1022,0.2
+Asian or Asian British,50-59,Female,30,gp_or_asc,1022,2.94
+Asian or Asian British,50-59,Male,,asc,1298,0.15
+Asian or Asian British,50-59,Male,15,gp,1298,1.16
+Asian or Asian British,50-59,Male,,gp_and_asc,1298,0.08
+Asian or Asian British,50-59,Male,18,gp_or_asc,1298,1.39
+Asian or Asian British,60-69,Female,,asc,508,0.79
+Asian or Asian British,60-69,Female,6,gp,508,1.18
+Asian or Asian British,60-69,Female,,gp_and_asc,508,0.39
+Asian or Asian British,60-69,Female,12,gp_or_asc,508,2.36
+Asian or Asian British,60-69,Male,,asc,594,0.17
+Asian or Asian British,60-69,Male,11,gp,594,1.85
+Asian or Asian British,60-69,Male,,gp_and_asc,594,0.17
+Asian or Asian British,60-69,Male,13,gp_or_asc,594,2.19
+Asian or Asian British,70-79,Female,,asc,326,0.31
+Asian or Asian British,70-79,Female,,gp,326,1.23
+Asian or Asian British,70-79,Female,,gp_and_asc,326,0.92
+Asian or Asian British,70-79,Female,8,gp_or_asc,326,2.45
+Asian or Asian British,70-79,Male,,asc,280,1.07
+Asian or Asian British,70-79,Male,,gp,280,1.43
+Asian or Asian British,70-79,Male,,gp_and_asc,280,0.36
+Asian or Asian British,70-79,Male,8,gp_or_asc,280,2.86
+Asian or Asian British,80+,Female,,asc,117,1.71
+Asian or Asian British,80+,Female,,gp_or_asc,117,1.71
+Asian or Asian British,80+,Male,,asc,145,2.76
+Asian or Asian British,80+,Male,,gp,145,2.76
+Asian or Asian British,80+,Male,,gp_and_asc,145,1.38
+Asian or Asian British,80+,Male,10,gp_or_asc,145,6.9
+Black or Black British,18-29,Female,,asc,2238,0.04
+Black or Black British,18-29,Female,13,gp,2238,0.58
+Black or Black British,18-29,Female,14,gp_or_asc,2238,0.63
+Black or Black British,18-29,Male,,asc,2137,0.05
+Black or Black British,18-29,Male,8,gp,2137,0.37
+Black or Black British,18-29,Male,9,gp_or_asc,2137,0.42
+Black or Black British,30-39,Female,,asc,1780,0.06
+Black or Black British,30-39,Female,38,gp,1780,2.13
+Black or Black British,30-39,Female,,gp_and_asc,1780,0.06
+Black or Black British,30-39,Female,40,gp_or_asc,1780,2.25
+Black or Black British,30-39,Male,17,gp,2057,0.83
+Black or Black British,30-39,Male,17,gp_or_asc,2057,0.83
+Black or Black British,40-49,Female,,asc,1568,0.19
+Black or Black British,40-49,Female,56,gp,1568,3.57
+Black or Black British,40-49,Female,,gp_and_asc,1568,0.13
+Black or Black British,40-49,Female,61,gp_or_asc,1568,3.89
+Black or Black British,40-49,Male,28,gp,1820,1.54
+Black or Black British,40-49,Male,28,gp_or_asc,1820,1.54
+Black or Black British,50-59,Female,8,asc,909,0.88
+Black or Black British,50-59,Female,39,gp,909,4.29
+Black or Black British,50-59,Female,6,gp_and_asc,909,0.66
+Black or Black British,50-59,Female,53,gp_or_asc,909,5.83
+Black or Black British,50-59,Male,15,gp,1230,1.22
+Black or Black British,50-59,Male,,gp_and_asc,1230,0.16
+Black or Black British,50-59,Male,17,gp_or_asc,1230,1.38
+Black or Black British,50-59,Unknown,,,1,
+Black or Black British,60-69,Female,,asc,534,0.75
+Black or Black British,60-69,Female,14,gp,534,2.62
+Black or Black British,60-69,Female,,gp_and_asc,534,0.19
+Black or Black British,60-69,Female,19,gp_or_asc,534,3.56
+Black or Black British,60-69,Male,,asc,634,0.63
+Black or Black British,60-69,Male,7,gp,634,1.1
+Black or Black British,60-69,Male,,gp_and_asc,634,0.32
+Black or Black British,60-69,Male,13,gp_or_asc,634,2.05
+Black or Black British,70-79,Female,,asc,280,1.79
+Black or Black British,70-79,Female,,gp,280,1.79
+Black or Black British,70-79,Female,,gp_and_asc,280,0.36
+Black or Black British,70-79,Female,11,gp_or_asc,280,3.93
+Black or Black British,70-79,Male,,asc,233,1.29
+Black or Black British,70-79,Male,,gp,233,0.86
+Black or Black British,70-79,Male,,gp_or_asc,233,2.15
+Black or Black British,80+,Female,,asc,135,1.48
+Black or Black British,80+,Female,,gp,135,1.48
+Black or Black British,80+,Female,,gp_or_asc,135,2.96
+Black or Black British,80+,Male,10,asc,161,6.21
+Black or Black British,80+,Male,,gp,161,0.62
+Black or Black British,80+,Male,11,gp_or_asc,161,6.83
+Mixed,,Female,,asc,,
+Mixed,,Female,,gp_or_asc,,
+Mixed,,Male,,asc,,
+Mixed,,Male,,gp_or_asc,,
+Mixed,18-29,Female,,asc,3038,0.03
+Mixed,18-29,Female,24,gp,3038,0.79
+Mixed,18-29,Female,,gp_and_asc,3038,0.03
+Mixed,18-29,Female,26,gp_or_asc,3038,0.86
+Mixed,18-29,Male,,asc,2922,0.07
+Mixed,18-29,Male,9,gp,2922,0.31
+Mixed,18-29,Male,11,gp_or_asc,2922,0.38
+Mixed,18-29,Unknown,,,2,
+Mixed,30-39,Female,,asc,1802,0.06
+Mixed,30-39,Female,13,gp,1802,0.72
+Mixed,30-39,Female,14,gp_or_asc,1802,0.78
+Mixed,30-39,Male,,asc,2326,0.09
+Mixed,30-39,Male,14,gp,2326,0.6
+Mixed,30-39,Male,,gp_and_asc,2326,0.04
+Mixed,30-39,Male,17,gp_or_asc,2326,0.73
+Mixed,40-49,Female,,asc,1362,0.22
+Mixed,40-49,Female,17,gp,1362,1.25
+Mixed,40-49,Female,20,gp_or_asc,1362,1.47
+Mixed,40-49,Male,,asc,1509,0.07
+Mixed,40-49,Male,6,gp,1509,0.4
+Mixed,40-49,Male,7,gp_or_asc,1509,0.46
+Mixed,50-59,Female,,asc,1013,0.1
+Mixed,50-59,Female,19,gp,1013,1.88
+Mixed,50-59,Female,,gp_and_asc,1013,0.2
+Mixed,50-59,Female,22,gp_or_asc,1013,2.17
+Mixed,50-59,Male,,asc,1154,0.43
+Mixed,50-59,Male,13,gp,1154,1.13
+Mixed,50-59,Male,,gp_and_asc,1154,0.09
+Mixed,50-59,Male,19,gp_or_asc,1154,1.65
+Mixed,60-69,Female,,asc,730,0.14
+Mixed,60-69,Female,7,gp,730,0.96
+Mixed,60-69,Female,,gp_and_asc,730,0.27
+Mixed,60-69,Female,10,gp_or_asc,730,1.37
+Mixed,60-69,Male,,asc,627,0.32
+Mixed,60-69,Male,,gp,627,0.32
+Mixed,60-69,Male,,gp_or_asc,627,0.64
+Mixed,70-79,Female,,asc,437,0.46
+Mixed,70-79,Female,,gp,437,0.92
+Mixed,70-79,Female,6,gp_or_asc,437,1.37
+Mixed,70-79,Male,,asc,361,0.28
+Mixed,70-79,Male,,gp,361,0.28
+Mixed,70-79,Male,,gp_or_asc,361,0.55
+Mixed,80+,Female,,asc,219,0.46
+Mixed,80+,Female,,gp_or_asc,219,0.46
+Mixed,80+,Male,,asc,146,1.37
+Mixed,80+,Male,,gp,146,1.37
+Mixed,80+,Male,,gp_or_asc,146,2.74
+Other ethnic groups,,Male,,asc,,
+Other ethnic groups,,Male,,gp_or_asc,,
+Other ethnic groups,18-29,Female,25,gp,9991,0.25
+Other ethnic groups,18-29,Female,,gp_and_asc,9991,0.01
+Other ethnic groups,18-29,Female,26,gp_or_asc,9991,0.26
+Other ethnic groups,18-29,Male,,asc,8833,0.01
+Other ethnic groups,18-29,Male,16,gp,8833,0.18
+Other ethnic groups,18-29,Male,17,gp_or_asc,8833,0.19
+Other ethnic groups,30-39,Female,,asc,4523,0.07
+Other ethnic groups,30-39,Female,41,gp,4523,0.91
+Other ethnic groups,30-39,Female,,gp_and_asc,4523,0.04
+Other ethnic groups,30-39,Female,46,gp_or_asc,4523,1.02
+Other ethnic groups,30-39,Male,16,gp,5298,0.3
+Other ethnic groups,30-39,Male,,gp_and_asc,5298,0.02
+Other ethnic groups,30-39,Male,17,gp_or_asc,5298,0.32
+Other ethnic groups,40-49,Female,,asc,2595,0.04
+Other ethnic groups,40-49,Female,39,gp,2595,1.5
+Other ethnic groups,40-49,Female,,gp_and_asc,2595,0.12
+Other ethnic groups,40-49,Female,43,gp_or_asc,2595,1.66
+Other ethnic groups,40-49,Male,25,gp,3129,0.8
+Other ethnic groups,40-49,Male,,gp_and_asc,3129,0.03
+Other ethnic groups,40-49,Male,26,gp_or_asc,3129,0.83
+Other ethnic groups,50-59,Female,,asc,1774,0.28
+Other ethnic groups,50-59,Female,36,gp,1774,2.03
+Other ethnic groups,50-59,Female,,gp_and_asc,1774,0.17
+Other ethnic groups,50-59,Female,44,gp_or_asc,1774,2.48
+Other ethnic groups,50-59,Male,,asc,1982,0.15
+Other ethnic groups,50-59,Male,9,gp,1982,0.45
+Other ethnic groups,50-59,Male,12,gp_or_asc,1982,0.61
+Other ethnic groups,60-69,Female,,asc,1281,0.16
+Other ethnic groups,60-69,Female,20,gp,1281,1.56
+Other ethnic groups,60-69,Female,,gp_and_asc,1281,0.08
+Other ethnic groups,60-69,Female,23,gp_or_asc,1281,1.8
+Other ethnic groups,60-69,Male,,asc,1356,0.07
+Other ethnic groups,60-69,Male,7,gp,1356,0.52
+Other ethnic groups,60-69,Male,,gp_and_asc,1356,0.22
+Other ethnic groups,60-69,Male,11,gp_or_asc,1356,0.81
+Other ethnic groups,70-79,Female,9,asc,925,0.97
+Other ethnic groups,70-79,Female,,gp,925,0.11
+Other ethnic groups,70-79,Female,10,gp_or_asc,925,1.08
+Other ethnic groups,70-79,Male,,asc,804,0.25
+Other ethnic groups,70-79,Male,,gp,804,0.25
+Other ethnic groups,70-79,Male,,gp_and_asc,804,0.12
+Other ethnic groups,70-79,Male,,gp_or_asc,804,0.62
+Other ethnic groups,80+,Female,8,asc,426,1.88
+Other ethnic groups,80+,Female,,gp,426,0.94
+Other ethnic groups,80+,Female,12,gp_or_asc,426,2.82
+Other ethnic groups,80+,Male,6,asc,386,1.55
+Other ethnic groups,80+,Male,,gp,386,0.26
+Other ethnic groups,80+,Male,,gp_and_asc,386,0.52
+Other ethnic groups,80+,Male,9,gp_or_asc,386,2.33
+Unknown,,Female,,asc,,
+Unknown,,Female,,gp_or_asc,,
+Unknown,,Male,,asc,,
+Unknown,,Male,,gp_or_asc,,
+Unknown,,Unknown,5182,asc,,
+Unknown,,Unknown,6700,gp,,
+Unknown,,Unknown,123,gp_and_asc,,
+Unknown,,Unknown,12005,gp_or_asc,,
+Unknown,18-29,Female,9,asc,18980,0.05
+Unknown,18-29,Female,139,gp,18980,0.73
+Unknown,18-29,Female,,gp_and_asc,18980,0.01
+Unknown,18-29,Female,150,gp_or_asc,18980,0.79
+Unknown,18-29,Male,9,asc,20971,0.04
+Unknown,18-29,Male,77,gp,20971,0.37
+Unknown,18-29,Male,,gp_and_asc,20971,0.02
+Unknown,18-29,Male,90,gp_or_asc,20971,0.43
+Unknown,18-29,Unknown,,,3,
+Unknown,30-39,Female,10,asc,11768,0.08
+Unknown,30-39,Female,118,gp,11768,1
+Unknown,30-39,Female,6,gp_and_asc,11768,0.05
+Unknown,30-39,Female,134,gp_or_asc,11768,1.14
+Unknown,30-39,Male,,asc,18286,0.02
+Unknown,30-39,Male,63,gp,18286,0.34
+Unknown,30-39,Male,67,gp_or_asc,18286,0.37
+Unknown,30-39,Unknown,,,1,
+Unknown,40-49,Female,17,asc,7955,0.21
+Unknown,40-49,Female,137,gp,7955,1.72
+Unknown,40-49,Female,18,gp_and_asc,7955,0.23
+Unknown,40-49,Female,172,gp_or_asc,7955,2.16
+Unknown,40-49,Male,6,asc,12405,0.05
+Unknown,40-49,Male,78,gp,12405,0.63
+Unknown,40-49,Male,,gp_and_asc,12405,0.04
+Unknown,40-49,Male,89,gp_or_asc,12405,0.72
+Unknown,50-59,Female,37,asc,8106,0.46
+Unknown,50-59,Female,194,gp,8106,2.39
+Unknown,50-59,Female,27,gp_and_asc,8106,0.33
+Unknown,50-59,Female,258,gp_or_asc,8106,3.18
+Unknown,50-59,Male,18,asc,11224,0.16
+Unknown,50-59,Male,92,gp,11224,0.82
+Unknown,50-59,Male,10,gp_and_asc,11224,0.09
+Unknown,50-59,Male,120,gp_or_asc,11224,1.07
+Unknown,60-69,Female,42,asc,6276,0.67
+Unknown,60-69,Female,103,gp,6276,1.64
+Unknown,60-69,Female,17,gp_and_asc,6276,0.27
+Unknown,60-69,Female,162,gp_or_asc,6276,2.58
+Unknown,60-69,Male,18,asc,8028,0.22
+Unknown,60-69,Male,83,gp,8028,1.03
+Unknown,60-69,Male,,gp_and_asc,8028,0.05
+Unknown,60-69,Male,105,gp_or_asc,8028,1.31
+Unknown,70-79,Female,45,asc,3679,1.22
+Unknown,70-79,Female,39,gp,3679,1.06
+Unknown,70-79,Female,14,gp_and_asc,3679,0.38
+Unknown,70-79,Female,98,gp_or_asc,3679,2.66
+Unknown,70-79,Male,22,asc,3830,0.57
+Unknown,70-79,Male,28,gp,3830,0.73
+Unknown,70-79,Male,,gp_and_asc,3830,0.05
+Unknown,70-79,Male,52,gp_or_asc,3830,1.36
+Unknown,80+,Female,92,asc,1930,4.77
+Unknown,80+,Female,40,gp,1930,2.07
+Unknown,80+,Female,7,gp_and_asc,1930,0.36
+Unknown,80+,Female,139,gp_or_asc,1930,7.2
+Unknown,80+,Male,41,asc,1537,2.67
+Unknown,80+,Male,31,gp,1537,2.02
+Unknown,80+,Male,7,gp_and_asc,1537,0.46
+Unknown,80+,Male,79,gp_or_asc,1537,5.14
+White,,Female,,asc,,
+White,,Female,,gp_and_asc,,
+White,,Female,,gp_or_asc,,
+White,,Male,,asc,,
+White,,Male,,gp_and_asc,,
+White,,Male,,gp_or_asc,,
+White,18-29,Female,43,asc,66586,0.06
+White,18-29,Female,497,gp,66586,0.75
+White,18-29,Female,15,gp_and_asc,66586,0.02
+White,18-29,Female,555,gp_or_asc,66586,0.83
+White,18-29,Male,24,asc,53033,0.05
+White,18-29,Male,202,gp,53033,0.38
+White,18-29,Male,7,gp_and_asc,53033,0.01
+White,18-29,Male,233,gp_or_asc,53033,0.44
+White,18-29,Unknown,,,10,
+White,30-39,Female,36,asc,53756,0.07
+White,30-39,Female,775,gp,53756,1.44
+White,30-39,Female,24,gp_and_asc,53756,0.04
+White,30-39,Female,835,gp_or_asc,53756,1.55
+White,30-39,Male,28,asc,50285,0.06
+White,30-39,Male,280,gp,50285,0.56
+White,30-39,Male,16,gp_and_asc,50285,0.03
+White,30-39,Male,324,gp_or_asc,50285,0.64
+White,30-39,Unknown,,,6,
+White,40-49,Female,116,asc,40288,0.29
+White,40-49,Female,885,gp,40288,2.2
+White,40-49,Female,63,gp_and_asc,40288,0.16
+White,40-49,Female,1064,gp_or_asc,40288,2.64
+White,40-49,Male,58,asc,40825,0.14
+White,40-49,Male,385,gp,40825,0.94
+White,40-49,Male,33,gp_and_asc,40825,0.08
+White,40-49,Male,476,gp_or_asc,40825,1.17
+White,40-49,Unknown,,,1,
+White,50-59,Female,222,asc,46545,0.48
+White,50-59,Female,1306,gp,46545,2.81
+White,50-59,Female,175,gp_and_asc,46545,0.38
+White,50-59,Female,1703,gp_or_asc,46545,3.66
+White,50-59,Male,102,asc,45893,0.22
+White,50-59,Male,616,gp,45893,1.34
+White,50-59,Male,59,gp_and_asc,45893,0.13
+White,50-59,Male,777,gp_or_asc,45893,1.69
+White,60-69,Female,266,asc,43806,0.61
+White,60-69,Female,972,gp,43806,2.22
+White,60-69,Female,134,gp_and_asc,43806,0.31
+White,60-69,Female,1372,gp_or_asc,43806,3.13
+White,60-69,Male,150,asc,42935,0.35
+White,60-69,Male,458,gp,42935,1.07
+White,60-69,Male,44,gp_and_asc,42935,0.1
+White,60-69,Male,652,gp_or_asc,42935,1.52
+White,70-79,Female,344,asc,34608,0.99
+White,70-79,Female,409,gp,34608,1.18
+White,70-79,Female,94,gp_and_asc,34608,0.27
+White,70-79,Female,847,gp_or_asc,34608,2.45
+White,70-79,Male,219,asc,32703,0.67
+White,70-79,Male,241,gp,32703,0.74
+White,70-79,Male,55,gp_and_asc,32703,0.17
+White,70-79,Male,515,gp_or_asc,32703,1.57
+White,80+,Female,646,asc,21848,2.96
+White,80+,Female,231,gp,21848,1.06
+White,80+,Female,63,gp_and_asc,21848,0.29
+White,80+,Female,940,gp_or_asc,21848,4.3
+White,80+,Male,367,asc,16767,2.19
+White,80+,Male,191,gp,16767,1.14
+White,80+,Male,54,gp_and_asc,16767,0.32
+White,80+,Male,612,gp_or_asc,16767,3.65
