@@ -14,7 +14,7 @@ Please note that these research outputs have not yet been peer-reviewed and shou
 
 This study has responded to a set of research questions, which might help to improve our understanding of carers’ needs and contexts:
 
-= How many adults are registered with GP or social services as a carer?
+- How many adults are registered with GP or social services as a carer?
 - Have these changed over time?
 - How likely are people to become a carer based on gender, ethnicity, age, or deprivation?
 - Do carers tend be concentrated in certain areas?
